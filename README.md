@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **NextJS, TypeScript, React Native**
 
-- 👨‍💻 All of my projects are available at [https://shujaat-portfolio.vercel.app/](https://shujaat-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My-Portfolio](https://shujaat-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, MERN**
 
-- 📫 Reach me **muhammadshujaat56@gmail.com**
+- 📫 Reach me **muhammadshujaat04@gmail.com**
 
 ---
 
