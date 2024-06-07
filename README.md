@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JavaScript, MERN**
 
-- 📫 Reach me through **muhammadshujaat56@gmail.com**
+- 📫 Reach me through **muhammadshujaat04@gmail.com**
 
 ---
 
