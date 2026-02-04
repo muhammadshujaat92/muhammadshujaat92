@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.jS, TypeScript, React Native**
 
-- 👨‍💻 All of my projects are available at **<a href="https://shujaat-portfolio.vercel.app/" target="_blank">My Portfolio</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://www.shujaatdev.me" target="_blank">My Portfolio</a>**
 
 - 💬 Ask me about **React, JavaScript, MERN**
 
